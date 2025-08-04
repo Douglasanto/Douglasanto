@@ -1,6 +1,6 @@
 🏙️ Based in Lauro de Freitas - BA, Brazil <br>
-🔭 I’m currently working Developer in Nexo Jornal <br>
-🌱 I'm currently learning programming focused on front-end in search of becoming a fullstack programmer <br>
+💼 Open to new opportunities as a front-end developer <br>
+🌱 Currently studying and expanding my knowledge in fullstack development <br>
 🎓 Graduating in B.I Science, technology and innovation at the Federal University of Bahia (UFBA) <br>
 📫 How to reach me: dodo.espsanto@gmail.com <br>
 ⚡ Fun fact: I love playing sports and video games <br>
